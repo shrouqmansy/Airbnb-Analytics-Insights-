@@ -1,0 +1,11 @@
+city,country,population,city_id
+athens,Greece,650000.0,1
+vienna,Austria,2041286.0,2
+paris,France,2048472.0,3
+london,United Kingdom,9122909.0,4
+amsterdam,Netherlands,920000.0,5
+budapest,Hungary,1675777.0,6
+barcelona,Spain,1731649.0,7
+berlin,Germany,3913644.0,8
+lisbon,Portugal,550000.0,9
+rome,Italy,2745062.0,10
