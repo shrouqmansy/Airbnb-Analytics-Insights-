@@ -65,3 +65,13 @@ Add the dataset name and link here (for example, the Kaggle page you downloaded 
 
 ## Author
 Your name · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
+## 📊 Dashboard Preview
+
+### Overview
+![Overview Dashboard](images/image%20overview.jpeg)
+
+### Price Influencers
+![Price Influencers Dashboard](images/image%20influencers.jpeg)
+
+### Satisfaction
+![Satisfaction Dashboard](images/imagesoverview.jpeg)
